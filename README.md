@@ -48,7 +48,9 @@ Conditional Formatting: Color scales, icon sets, and logical formatting for “F
 Data Validation: Ensures consistent input for numeric test scores.
 
 
+## Outcome
 
+This project demonstrates how Excel can be used for HR analytics, automating employee performance reviews, and decision-making without needing Power BI or coding.
   
 
 

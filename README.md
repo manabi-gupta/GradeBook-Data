@@ -29,6 +29,26 @@ these are the respective graphs.
   
 <img width="581" height="751" alt="Screenshot 2025-10-19 224040" src="https://github.com/user-attachments/assets/6ac67ff7-b189-474c-b8d5-103c52b81671" />
 
+## Insights
+
+Average performance across all employees:
+
+Safety Test: ~89%
+Company Philosophy Test: ~85%
+Financial Skill Test: ~82%
+Drug Test Pass Rate: ~88%
+Highlighted cells show employees who failed compliance checks.
+HR can directly use this sheet to decide who needs retraining or disciplinary action.
+
+
+## Tools & Techniques
+
+Excel Functions: AVERAGE, MAX, MIN, IF, AND, OR
+Conditional Formatting: Color scales, icon sets, and logical formatting for “Fire Employee” flag.
+Data Validation: Ensures consistent input for numeric test scores.
+
+
+
   
 
 
